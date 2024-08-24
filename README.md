@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecraftsmansandeep&label=Profile%20views&color=0e75b6&style=flat" alt="codecraftsmansandeep" /> </p>
 
-- 🔭 I’m currently working on **everything_is_logical**
-
 - 📫 How to reach me **sandeep.chekkala.wh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
