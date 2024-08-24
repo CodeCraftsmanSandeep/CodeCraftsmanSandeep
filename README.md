@@ -7,7 +7,9 @@
 |:--------|:---------------|
 | [Octopus](https://github.com/CodeCraftsmanSandeep/Octopus) | PostgreSQL, Python, Database design |
 | [RISC-V](https://github.com/CodeCraftsmanSandeep/RISC-V) | VHDL, Computer Architecture & Hardware design |
-| [Skip list vs C++ set](https://github.com/CodeCraftsmanSandeep/advanced_data_structure-skip_lists) | Advanced data structures, C++, Python, Shell |
+| [Skip list vs C++ set](https://github.com/CodeCraftsmanSandeep/advanced_data_structure-skip_lists) | Advanced data structures and algorithms, C++, Python, Shell |
+| [case_study_on_random_graph_models](https://github.com/CodeCraftsmanSandeep/case_study_on_random_graph_models) | Python, data structures and algorithms |
+
 
 </div>
 
