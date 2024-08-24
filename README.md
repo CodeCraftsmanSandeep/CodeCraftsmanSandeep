@@ -13,6 +13,9 @@
 | [RISC-V](https://github.com/CodeCraftsmanSandeep/RISC-V) | VHDL, Computer Architecture & Hardware design |
 | [Skip list vs C++ set](https://github.com/CodeCraftsmanSandeep/advanced_data_structure-skip_lists) | Advanced data structures and algorithms, C++, Python, Shell |
 | [case_study_on_random_graph_models](https://github.com/CodeCraftsmanSandeep/case_study_on_random_graph_models) | Python, data structures and algorithms |
+| [Hardware for 24Hr Clock](https://github.com/CodeCraftsmanSandeep/Signals-and-systems-Designing-24Hr-clock-and-alarm.) | VHDL, FPGA, hardware-design |
+| [Countdown timer application](https://github.com/CodeCraftsmanSandeep/Count-Down-Timer.) | Python |
+
 
 
 </div>
