@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sandeep</h1>
-<h3 align="center">C++ Enthusiast | Problem Solver | Clean Code Advocate | Exploring Algorithms, Data Structures, and Modern C++</h3>
+<h3 align="center">C++ Enthusiast | Problem Solver | Clean Code Advocate | Exploring Algorithms and Data Structures</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codecraftsmansandeep&label=Profile%20views&color=0e75b6&style=flat" alt="codecraftsmansandeep" /> </p>
 
