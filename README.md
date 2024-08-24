@@ -15,6 +15,8 @@
 | [case_study_on_random_graph_models](https://github.com/CodeCraftsmanSandeep/case_study_on_random_graph_models) | Python, data structures and algorithms |
 | [Hardware for 24Hr Clock](https://github.com/CodeCraftsmanSandeep/Signals-and-systems-Designing-24Hr-clock-and-alarm.) | VHDL, FPGA, hardware-design |
 | [Countdown timer application](https://github.com/CodeCraftsmanSandeep/Count-Down-Timer.) | Python |
+| [AI spam filter](https://github.com/CodeCraftsmanSandeep/AI-model-Spam-filter.) | Python, AI, probability & math |
+
 
 
 
