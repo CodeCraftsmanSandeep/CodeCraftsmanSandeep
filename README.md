@@ -17,7 +17,7 @@
 | [Countdown timer application](https://github.com/CodeCraftsmanSandeep/Count-Down-Timer.) | Python |
 | [AI spam filter](https://github.com/CodeCraftsmanSandeep/AI-model-Spam-filter.) | Python, AI, probability & math |
 | [AI stratergy planner for sliding blocks game](https://github.com/CodeCraftsmanSandeep/AI-agent-Sliding-blocks) | Python, AI, algorithms, data structures |
-| [Finding route for mouse in maze using different algorihtms](https://github.com/CodeCraftsmanSandeep/AI-agent-Maze-problem) | Python, AI, algorithms, data structures |
+| [Finding route for mouse in maze using different algorithms](https://github.com/CodeCraftsmanSandeep/AI-agent-Maze-problem) | Python, AI, algorithms, data structures |
 
 
 </div>
