@@ -7,7 +7,7 @@
 
 <div align="center">
 
-| Project | skills/tools |
+| Project/Collection/Games | skills/tools |
 |:--------|:---------------|
 | [Octopus](https://github.com/CodeCraftsmanSandeep/Octopus) | PostgreSQL, Python, Database design |
 | [RISC-V](https://github.com/CodeCraftsmanSandeep/RISC-V) | VHDL, Computer Architecture & Hardware design |
@@ -16,8 +16,8 @@
 | [Hardware for 24Hr Clock](https://github.com/CodeCraftsmanSandeep/Signals-and-systems-Designing-24Hr-clock-and-alarm.) | VHDL, FPGA, hardware-design |
 | [Countdown timer application](https://github.com/CodeCraftsmanSandeep/Count-Down-Timer.) | Python |
 | [AI spam filter](https://github.com/CodeCraftsmanSandeep/AI-model-Spam-filter.) | Python, AI, probability & math |
-
-
+| [AI stratergy planner for sliding blocks game](https://github.com/CodeCraftsmanSandeep/AI-agent-Sliding-blocks) | Python, AI, algorithms, data structures |
+| [Finding route for mouse in maze using different algorihtms](https://github.com/CodeCraftsmanSandeep/AI-agent-Maze-problem) | Python, AI, algorithms, data structures |
 
 
 </div>
