@@ -21,7 +21,6 @@
 
 </div>
 
-
 <div align="center">
 
 <h3>Problem Solving Stats 📊:</h3>
@@ -62,7 +61,15 @@
 
 </div>
 
+<div align="center">
 
+<h3>Currently Working On 🔧:</h3>
+<p>
+  <a href="https://github.com/CodeCraftsmanSandeep/everything_is_logical">Everything is Logical</a> <br/>
+  <a href="https://github.com/CodeCraftsmanSandeep/GPU-programming">GPU Programming</a>
+</p>
+
+</div>
 
 <div align="center">
 
