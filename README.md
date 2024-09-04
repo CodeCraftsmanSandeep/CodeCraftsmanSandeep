@@ -28,7 +28,7 @@
 <div align="center">
 
 <h3>Problem Solving Stats 📊</h3>
-<p>✨ Solved over 2,000+ DSA and competitive programming problems, earning a 4★ rating on <a href="https://www.codechef.com/users/sandeep_iitpkd">CodeChef</a>. 🚀</p>
+<p>✨ Solved over 2,000+ DSA and competitive programming problems across various coding platforms, earning a 4⭐ rating on <a href="https://www.codechef.com/users/sandeep_iitpkd">CodeChef</a>. 🚀</p>
 
 <p>🥇 Ranked 1st in programming contests at IIT Palakkad.</p>
 
