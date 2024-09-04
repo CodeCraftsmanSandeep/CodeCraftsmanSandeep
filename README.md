@@ -19,24 +19,14 @@
 | [AI strategy planner for sliding blocks game](https://github.com/CodeCraftsmanSandeep/AI-agent-Sliding-blocks) | Python, AI, algorithms, data structures 🧩 |
 | [Finding route for mouse in maze using different algorithms](https://github.com/CodeCraftsmanSandeep/AI-agent-Maze-problem) | Python, AI, algorithms, data structures 🧭 |
 
-</div>
-
-
 <div align="center">
 
+### Problem Solving Stats 📊
 
-<div align="center">
-
-<h3>Problem Solving Stats 📊</h3>
-<p>✨ Solved over 2,000+ DSA and competitive programming problems across various coding platforms, earning a 4⭐ rating on <a href="https://www.codechef.com/users/sandeep_iitpkd">CodeChef</a>. 🚀</p>
-
-<p>🥇 Ranked 1 in programming contests @IIT Palakkad.</p>
-
-<p>💡 Topped the GPU programming workshop conducted by NSM-KLA and IIT Madras.</p>
-
+✨ Solved over **2,000+** DSA and competitive programming problems across various coding platforms, earning a **4⭐ rating** on [CodeChef](https://www.codechef.com/users/sandeep_iitpkd). 🚀  
+🥇 Ranked **1st** in programming contests @ **IIT Palakkad**.  
+💡 Topped the **GPU programming workshop** conducted by **NSM-KLA and IIT Madras**.
 </div>
-
-
 
 <!-- <table>
 <div align="center">
