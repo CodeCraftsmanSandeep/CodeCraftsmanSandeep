@@ -23,7 +23,7 @@
 
 ### Problem Solving Stats 📊
 
-✨ Solved over **2,000+** DSA and competitive programming problems across various coding platforms, earning a **4⭐ rating** on [CodeChef](https://www.codechef.com/users/sandeep_iitpkd). 🚀  
+✨ Solved over **1,800+** DSA and competitive programming problems across various coding platforms, earning a **4⭐ rating** on [CodeChef](https://www.codechef.com/users/sandeep_iitpkd). 🚀  
 🥇 Rank **1** in programming contests @ **IIT Palakkad**.  
 💡 Topped in **GPU programming workshop** conducted by **NSM-KLA and IIT Madras**.
 </div>
