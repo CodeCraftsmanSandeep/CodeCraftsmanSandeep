@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">C++ Enthusiast | Problem Solver | Clean Code Advocate | Exploring Algorithms and Data Structures</h3>
+<h3 align="center">
+  <strong>5⭐</strong> @<a href="https://www.codechef.com/users/sandeep_iitpkd" target="_blank">CodeChef</a> | 
+  Ex-SWE @<a href="https://www.bny.com/corporate/global/en.html" target="_blank">BNY</a> | 
+  Ex-Project Intern @<a href="https://www.isro.gov.in/SDSC.html" target="_blank">ISRO</a> | 
+  B.Tech CSE @<a href="https://iitpkd.ac.in/" target="_blank">IIT PKD</a>
+</h3>
 
 <!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codecraftsmansandeep&label=Profile%20views&color=0e75b6&style=flat" alt="codecraftsmansandeep" /> </p>
@@ -23,7 +28,7 @@
 
 ### Problem Solving Stats 📊
 
-✨ Solved over **2,000+** DSA and competitive programming problems across various coding platforms, earning a **5⭐ rating** on [CodeChef](https://www.codechef.com/users/sandeep_iitpkd). 🚀  
+✨ Solved over **2,000+** DSA and competitive programming problems across various coding platforms, earning a **5⭐** on [CodeChef](https://www.codechef.com/users/sandeep_iitpkd). 🚀  
 🥇 Rank **1** in programming contests @ **IIT Palakkad**.  
 💡 Topped in **GPU programming workshop** conducted by **NSM-KLA and IIT Madras**.
 </div>
