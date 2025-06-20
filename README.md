@@ -7,14 +7,25 @@
 </h3>
 
 <p align="center">
+  <!-- Profile views -->
   <a href="https://github.com/CodeCraftsmanSandeep" target="_blank">
     <img
-      src="https://komarev.com/ghpvc/?username=CodeCraftsmanSandeep&label=Profile%20views&color=0e75b6&style=flat-square"
+      src="https://komarev.com/ghpvc/?username=CodeCraftsmanSandeep&label=Profile%20views&color=0e75b6"
       alt="Profile views of CodeCraftsmanSandeep on GitHub"
-      style="width:150px; height:auto;"
+      style="width:150px; height:auto; margin:0 5px;"
+    />
+  </a>
+  
+  <!-- LinkedIn badge -->
+  <a href="https://linkedin.com/in/chekkala-sandeep-reddy" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Sandeep-blue?logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+      style="width:150px;height:auto; margin:0 5px;"
     />
   </a>
 </p>
+
 
 <div align="center">
 
@@ -132,5 +143,12 @@
     width="500"
   />
 </p>
+<!-- <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsmanSandeep&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_lang=Jupyter%20Notebook"
+    alt="Top languages"
+    style="width:180px; height:auto;"
+  />
+</p> -->
 
 </div>
