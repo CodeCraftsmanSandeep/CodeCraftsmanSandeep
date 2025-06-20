@@ -6,9 +6,24 @@
   B.Tech CSE @<a href="https://iitpkd.ac.in/" target="_blank">IIT PKD</a>
 </h3>
 
-<!--
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=codecraftsmansandeep&label=Profile%20views&color=0e75b6&style=flat" alt="codecraftsmansandeep" /> </p>
--->
+<p align="center">
+  <a href="https://github.com/CodeCraftsmanSandeep" target="_blank">
+    <img
+      src="https://komarev.com/ghpvc/?username=CodeCraftsmanSandeep&label=Profile%20views&color=0e75b6&style=flat-square"
+      alt="Profile views of CodeCraftsmanSandeep on GitHub"
+      style="width:150px; height:auto;"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CodeCraftsmanSandeep&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+    width="500"
+  />
+</p>
+
 
 <div align="center">
 
