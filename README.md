@@ -7,24 +7,25 @@
 </h3>
 
 <p align="center">
-  <!-- Profile views -->
+  <!-- GitHub Profile Views -->
   <a href="https://github.com/CodeCraftsmanSandeep" target="_blank">
     <img
-      src="https://komarev.com/ghpvc/?username=CodeCraftsmanSandeep&label=Profile%20views&color=0e75b6"
-      alt="Profile views of CodeCraftsmanSandeep on GitHub"
-      style="width:150px; height:auto; margin:0 5px;"
+      src="https://img.shields.io/badge/Profile%20Views-👀%20Click%20to%20view-informational?style=flat&logo=github&logoColor=white&color=0e75b6"
+      alt="GitHub Profile Views"
+      style="height:28px; margin:0 5px;"
     />
   </a>
-  
-  <!-- LinkedIn badge -->
+
+  <!-- LinkedIn Badge -->
   <a href="https://linkedin.com/in/chekkala-sandeep-reddy" target="_blank">
     <img
-      src="https://img.shields.io/badge/LinkedIn-Sandeep-blue?logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-Sandeep-blue?logo=linkedin&logoColor=white&style=flat"
       alt="LinkedIn"
-      style="width:150px;height:auto; margin:0 5px;"
+      style="height:28px; margin:0 5px;"
     />
   </a>
 </p>
+
 
 
 <div align="center">
@@ -103,13 +104,6 @@
 </div>
 
 <div align="center">
-
-<h3>Connect with me:</h3>
-<p>
-<a href="https://linkedin.com/in/chekkala-sandeep-reddy" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chekkala-sandeep-reddy" height="30" width="40" />
-</a>
-</p>
 
 <h3>Languages and Tools:</h3>
 <p> 
