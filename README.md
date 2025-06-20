@@ -10,7 +10,7 @@
   <!-- GitHub Profile Views -->
   <a href="https://github.com/CodeCraftsmanSandeep" target="_blank">
     <img
-      src="https://img.shields.io/badge/Profile%20Views-👀%20Click%20to%20view-informational?style=flat&logo=github&logoColor=white&color=0e75b6"
+      src="https://komarev.com/ghpvc/?username=CodeCraftsmanSandeep&label=Profile%20Views&color=0e75b6&style=flat"
       alt="GitHub Profile Views"
       style="height:28px; margin:0 5px;"
     />
@@ -25,6 +25,7 @@
     />
   </a>
 </p>
+
 
 
 
