@@ -16,14 +16,14 @@
     />
   </a>
 
-  <!-- LinkedIn Badge -->
+  <!-- LinkedIn Badge 
   <a href="https://linkedin.com/in/chekkala-sandeep-reddy" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-Sandeep-blue?logo=linkedin&logoColor=white&style=flat"
       alt="LinkedIn"
       style="height:28px; margin:0 5px;"
     />
-  </a>
+  </a> -->
 </p>
 
 
