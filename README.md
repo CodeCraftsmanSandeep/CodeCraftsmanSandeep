@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">
-  <strong>Max 5⭐</strong> @<a href="https://www.codechef.com/users/sandeep_iitpkd" target="_blank">CodeChef</a> | 
+  <strong>Max 5⭐</strong> @<a href="https://www.codechef.com" target="_blank">CodeChef</a> | 
   Ex-SWE @<a href="https://www.bny.com/corporate/global/en.html" target="_blank">BNY</a> | 
   Ex-Project Intern @<a href="https://www.isro.gov.in/SDSC.html" target="_blank">ISRO</a> | 
   B.Tech CSE @<a href="https://iitpkd.ac.in/" target="_blank">IIT PKD</a>
