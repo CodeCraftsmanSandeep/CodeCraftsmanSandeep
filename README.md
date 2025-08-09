@@ -6,6 +6,26 @@
   B.Tech CSE @<a href="https://iitpkd.ac.in/" target="_blank">IIT PKD</a>
 </h3>
 
+<p align="center">
+  <!-- GitHub Profile Views -->
+  <a href="https://github.com/CodeCraftsmanSandeep" target="_blank">
+    <img
+      src="https://komarev.com/ghpvc/?username=CodeCraftsmanSandeep&label=Profile%20Views&color=0e75b6&style=flat"
+      alt="GitHub Profile Views"
+      style="height:28px; margin:0 5px;"
+    />
+  </a>
+
+  <!-- LinkedIn Badge 
+  <a href="https://linkedin.com/in/chekkala-sandeep-reddy" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Sandeep-blue?logo=linkedin&logoColor=white&style=flat"
+      alt="LinkedIn"
+      style="height:28px; margin:0 5px;"
+    />
+  </a> -->
+</p>
+
 
 
 
@@ -33,28 +53,6 @@
 </div>
 
 
-<p align="center">
-  <!-- GitHub Profile Views -->
-  <a href="https://github.com/CodeCraftsmanSandeep" target="_blank">
-    <img
-      src="https://komarev.com/ghpvc/?username=CodeCraftsmanSandeep&label=Profile%20Views&color=0e75b6&style=flat"
-      alt="GitHub Profile Views"
-      style="height:28px; margin:0 5px;"
-    />
-  </a>
-
-  <!-- LinkedIn Badge 
-  <a href="https://linkedin.com/in/chekkala-sandeep-reddy" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Sandeep-blue?logo=linkedin&logoColor=white&style=flat"
-      alt="LinkedIn"
-      style="height:28px; margin:0 5px;"
-    />
-  </a> -->
-</p>
-
-
-
 
 <div align="center">
 
@@ -74,7 +72,7 @@
 
 ### Problem Solving Stats 📊
 
-✨ Solved over **2,000+** DSA and competitive programming problems across various coding platforms, earning a **5⭐** on [CodeChef](https://www.codechef.com/users/sandeep_iitpkd). 🚀  
+✨ Solved over **2,000+** DSA and competitive programming problems across various coding platforms, earning a **5⭐** on CodeChef. 🚀  
 🥇 Rank **1** in programming contests @ **IIT Palakkad**.  
 💡 Topped in **GPU programming workshop** conducted by **NSM-KLA and IIT Madras**.
 </div>
