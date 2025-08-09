@@ -14,18 +14,18 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <p>be it GPU</p>
-      <img src="assets/img/portfolio-images/GPU_Project_image_1.jpeg" alt="GPU" width="300" />
+      <p><strong><em>be it GPU</em><strong></p>
+      <img src="assets/img/portfolio-images/GPU_Project_image_1.jpeg" alt="GPU" width="400" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <p>be it FPGA</p>
-      <img src="assets/img/portfolio-images/FPGA_image.jpg" alt="Embedded Design" width="300" />
+      <p><strong><em>be it FPGA</em><strong></p>
+      <img src="assets/img/portfolio-images/FPGA_image.jpg" alt="Embedded Design" width="400" />
     </td>
     <td align="center">
-      <p>be it multi core CPU</p>
-      <img src="assets/img/portfolio-images/CPU_data_structure.jpeg" alt="CPU" width="300" />
+      <p><strong><em>be it multi core CPU</em><strong></p>
+      <img src="assets/img/portfolio-images/CPU_data_structure.jpeg" alt="CPU" width="320" />
     </td>
   </tr>
 </table>
