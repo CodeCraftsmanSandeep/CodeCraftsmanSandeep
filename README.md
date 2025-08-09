@@ -6,6 +6,31 @@
   B.Tech CSE @<a href="https://iitpkd.ac.in/" target="_blank">IIT PKD</a>
 </h3>
 
+<table style="width: 100%; text-align: center;">
+  <!-- First row: GPU centered -->
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <p>be it GPU</p>
+      <img src="assets/img/portfolio-images/GPU_Project_image_1.jpeg" alt="GPU" width="300" />
+    </td>
+  </tr>
+
+  <!-- Second row: FPGA and CPU side-by-side with equal size -->
+  <tr>
+    <td style="text-align: center;">
+      <p>be it FPGA</p>
+      <img src="assets/img/portfolio-images/FPGA_image.jpg" alt="Embedded Design" width="300" />
+    </td>
+    <td style="text-align: center;">
+      <p>be it multi core CPU</p>
+      <img src="assets/img/portfolio-images/CPU_data_structure.jpeg" alt="CPU" width="300" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 <p align="center">
   <!-- GitHub Profile Views -->
   <a href="https://github.com/CodeCraftsmanSandeep" target="_blank">
