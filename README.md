@@ -8,14 +8,29 @@
 
 
 
-|                         |                         |
-|-------------------------|-------------------------|
-|        **be it GPU**     |                         |
-| <img src="assets/img/portfolio-images/GPU_Project_image_1.jpeg" alt="GPU" width="300" /> |                         |
 
-|        **be it FPGA**    |    **be it multi core CPU**     |
-| <img src="assets/img/portfolio-images/FPGA_image.jpg" alt="FPGA" width="300" /> | <img src="assets/img/portfolio-images/CPU_data_structure.jpeg" alt="CPU" width="300" /> |
+<div align="center">
 
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <p>be it GPU</p>
+      <img src="assets/img/portfolio-images/GPU_Project_image_1.jpeg" alt="GPU" width="300" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <p>be it FPGA</p>
+      <img src="assets/img/portfolio-images/FPGA_image.jpg" alt="Embedded Design" width="300" />
+    </td>
+    <td align="center">
+      <p>be it multi core CPU</p>
+      <img src="assets/img/portfolio-images/CPU_data_structure.jpeg" alt="CPU" width="300" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 <p align="center">
