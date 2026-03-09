@@ -156,13 +156,13 @@
   </a> 
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=CodeCraftsmanSandeep&show_icons=true&theme=radical"
     alt="GitHub Stats"
     width="500"
   />
-</p>
+</p> -->
 <!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftsmanSandeep&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_lang=Jupyter%20Notebook"
